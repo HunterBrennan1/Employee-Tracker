@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/HunterBrennan1/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/HunterBrennan1/Employee-Tracker#readme"
+  "homepage": "https://github.com/HunterBrennan1/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "mysql": "^2.18.1"
+  }
 }
